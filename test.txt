@@ -1,1 +1,6 @@
 "Welcome" 
+My name is Kristine.
+I am an MS Business Analytics Student.
+My computer is 7 years old.
+We are doing an Intro to Git and Github workshop today.
+I hope the pizza tastes good.
